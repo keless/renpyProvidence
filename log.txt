@@ -1,0 +1,15 @@
+Fri Jun 26 22:12:00 2015
+Windows-8-6.2.9200
+Ren'Py 6.99.4.467
+ 
+
+Bootstrap to the start of init.init took 0.05s
+Early init took 0.01s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.10s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.06s
+Analyze and compile ATL took 0.01s
+Index archives took 0.00s
